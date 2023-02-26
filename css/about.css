@@ -1,0 +1,49 @@
+.Navi-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
+    font-size: 24px;
+}
+
+.about {
+    background-color: #e6e6e6;
+}
+
+.People {
+    background-color: #F2a97e;
+    padding: 30px;
+}
+
+.Menu-edit {
+    background-color: #F2a97e;
+    padding: 30px;
+}
+
+#image {
+    justify-content: left;
+    border: 10px solid #ac7e66;
+    object-fit: cover;
+    width: 600px;
+    height: 500px;
+}
+
+.Footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #e6e6e6;
+    padding: 10px 30px 10px 30px;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+p {
+    font-size: 24px;
+}

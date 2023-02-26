@@ -1,5 +1,6 @@
 /* Place CSS styles here */
 
+
 .Navi-bar {
     display: flex;
     justify-content: space-between;
@@ -18,7 +19,6 @@
 .Headline-img {
     width: 500px;
     height: auto;
-    float: left;
 }
 
 .Featured-Row {
@@ -31,14 +31,13 @@
     justify-content: center;
     gap: 50px;
     padding: 20px;
-    border: 5px solid #4d4d4f;
-    border-radius: 15px;
 }
 
 #feature {
     border: 3px solid #ac7e66;
+    object-fit: cover;
     width: 400px;
-    height: auto;
+    height: 500px;
 }
 
 .Footer {
@@ -46,4 +45,22 @@
     justify-content: space-between;
     background-color: #e6e6e6;
     padding: 10px 30px 10px 30px;
+}
+
+h1 {
+    font-size: 50px;
+    Font-Family: 'Cinzel';
+    
+}
+
+h2 {
+    font-size: 20px;
+    Font-Family: 'Cinzel';
+    
+}
+
+p {
+    font-size: 18px;
+    Font-Family: 'Fauna One', Serif;
+    
 }
