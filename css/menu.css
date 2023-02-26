@@ -18,6 +18,10 @@ nav ul li a {
     font-weight: bold;
 }
 
+.headline-menu {
+    text-align: center;
+}
+
 .menu-select {
     display: flex;
     justify-content: space-between;
