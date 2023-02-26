@@ -24,13 +24,39 @@ nav ul li a {
 .Headline {
     background-color: #F2a97e;
     justify-content: space-between;
-    display: grid;
-    max-height: 800px;
-    padding: 20px
+    display: flex;
+    padding: 60px
 }
+
+.Headline h1 {
+    font-size: 80px;
+    margin-bottom: 5px;
+}
+
+.Headline h2 {
+    font-size: 30px;
+}
+
+.Headline p {
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.Headline a {
+    background-color: black;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+    margin: 30px 0px;
+    border-radius: 5px;
+}
+
 .Headline-img {
-    width: 500px;
-    height: auto;
+    object-fit: cover;
+    width: 100%;
+    height: 80%;
 }
 
 .Featured-Row {
@@ -58,6 +84,17 @@ nav ul li a {
     justify-content: space-between;
     background-color: #e6e6e6;
     padding: 10px 30px 10px 30px;
+}
+
+.Featured-Row a {
+    background-color: black;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+    margin: 30px 0px;
+    border-radius: 5px;
 }
 
 h1 {
