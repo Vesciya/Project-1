@@ -22,9 +22,23 @@ nav ul li a {
     background-color: #e6e6e6;
 }
 
+.about-A {
+    background-color: #e6e6e6;
+    justify-content: space-between;
+    display: flex;
+    padding: 40px;
+}
+
 .People {
     background-color: #F2a97e;
     padding: 30px;
+}
+
+.about-B {
+    background-color: #e6e6e6;
+    justify-content: space-between;
+    display: flex;
+    padding: 40px;
 }
 
 .Menu-edit {
@@ -49,13 +63,19 @@ nav ul li a {
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 50px;
+    Font-Family: 'Cinzel';
+    
 }
 
 h2 {
-    font-size: 28px;
+    font-size: 20px;
+    Font-Family: 'Cinzel';
+    
 }
 
 p {
-    font-size: 24px;
+    font-size: 20px;
+    Font-Family: 'Fauna One', Serif;
+    
 }

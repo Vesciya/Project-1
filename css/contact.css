@@ -46,13 +46,19 @@ nav ul li a {
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 50px;
+    Font-Family: 'Cinzel';
+    
 }
 
 h2 {
-    font-size: 28px;
+    font-size: 20px;
+    Font-Family: 'Cinzel';
+    
 }
 
 p {
-    font-size: 24px;
+    font-size: 18px;
+    Font-Family: 'Fauna One', Serif;
+    
 }
